@@ -79,3 +79,18 @@ export class DatabaseController {
 }
 ```
 ---
+
+
+
+> run koro
+> ```bash
+>npm run start:dev
+> ```
+> <img width="830" height="276" alt="image" src="https://github.com/user-attachments/assets/bfbb2958-a73d-4b6f-b6b8-3cf0cea2d6f2" />
+
+>```bash
+>Ctrl + c
+>```
+><img width="787" height="293" alt="image" src="https://github.com/user-attachments/assets/3b895edc-9064-443d-827b-5994e32dc2c4" />
+
+---
